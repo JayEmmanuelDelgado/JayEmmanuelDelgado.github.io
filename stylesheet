@@ -1,0 +1,33 @@
+<style>
+    body {
+      background-color: #050811;
+      color: #e8e8e8;
+      scroll-behavior: smooth;
+    }
+    header, footer {
+      background: linear-gradient(135deg, #0d1224, #111b39);
+      border-top: 1px solid #1d2746;
+      border-bottom: 1px solid #1d2746;
+    }
+    h1, h2 {
+      color: #e8e8e8;
+    }
+    .skill-card {
+      background-color: #0f162d;
+      border: 1px solid #1d2746;
+      border-radius: 10px;
+      text-align: center;
+      padding: 20px;
+      transition: 0.3s;
+    }
+    .skill-card:hover {
+      background-color: #1a2446;
+      transform: translateY(-4px);
+    }
+    a.nav-link {
+      color: #e8e8e8;
+    }
+    a.nav-link:hover {
+      color: #00ffea;
+    }
+  </style>
