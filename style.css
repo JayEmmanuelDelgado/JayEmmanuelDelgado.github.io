@@ -83,7 +83,6 @@ body {
 .box {
   width: 100%;
   min-height: 100vh;
-  background-image: url("../profile/profile_img/bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
